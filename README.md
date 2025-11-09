@@ -37,7 +37,7 @@ Browser (Front-end) --> S3 Bucket --> CloudFront (HTTPS) --> API Gateway --> Lam
 
 ## Demo
 
-[Watch the demo video](./assets/titan%20ai%20demo.mov) to see the application in action.
+[Watch the demo video](https://youtu.be/KOT6DSRto-c) to see the application in action.
 
 ---
 
