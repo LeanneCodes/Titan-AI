@@ -35,6 +35,10 @@ The design of this project was inspired by [Rizki Padilah](https://dribbble.com/
 Browser (Front-end) --> S3 Bucket --> CloudFront (HTTPS) --> API Gateway --> Lambda Function --> Amazon Bedrock (Titan Express) --> Response
 ```
 
+Draw.IO Format
+---
+![Architect](./assets/titan-ai.jpg)
+
 ## Demo
 
 [Watch the demo video](https://youtu.be/KOT6DSRto-c) to see the application in action.
